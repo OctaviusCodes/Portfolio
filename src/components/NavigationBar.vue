@@ -3,7 +3,7 @@ import RouterLink from "vue-router";
   <div class="container">
     <header>
       <nav class="navbar">
-        <img class="custom-img" src="../assets/images/Photoshoot-Coloplast.jpg"
+        <img class="custom-img" src="../assets/images/Photoshoot-Coloplast.png"
           alt="Daniel O. H. Palmqvist"><RouterLink class="custom-header-menu-center" :to="{ name: 'Home' }">Daniel O. H. Palmqvist</RouterLink>
         <ul class="nav-menu" @click="closeHamburger">
           <li class="custom-header-li">

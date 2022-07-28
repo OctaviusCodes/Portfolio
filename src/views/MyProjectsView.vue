@@ -172,7 +172,7 @@
               <p>OUK - Kaninfarm</p>
             </template>
             <template v-slot:card-img-slot>
-              <img class="card-center-img" src="../assets/images/OUK - Kaninfarm.png" alt="OUK - Kaninfarm">
+              <img class="card-center-img" src="../assets/images/OUK-Kaninfarm.png" alt="OUK - Kaninfarm">
             </template>
             <template v-slot:card-subheader-slot>
               <p>Full Stack & Android developer</p>
