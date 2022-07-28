@@ -1,0 +1,294 @@
+/* ----------- Global solution for dynamic CSS ----------- */
+
+.social-media-icons {
+  color: #080808;
+  font-size: 25px;
+  margin: 10%;
+}
+.social-media-icons:hover {
+  border-bottom: 2px solid #080808;
+  color: #080808;
+}
+.referece-text {
+  color: #080808;
+}
+.list-margin-top {
+  margin-top: 10px;
+}
+.top-button {
+  border-radius: 20px;
+}
+.top-button:hover {
+  filter: brightness(0.85);
+}
+.blue-custom-color {
+  background-color: #cff6fc !important;
+}
+.green-custom-color {
+  background-color: #cef8cf !important;
+}
+.grey-custom-color {
+  background-color: #f5f5f5 !important;
+}
+.dark-grey-custom-color {
+  background: #c9c9c9 !important;
+}
+
+.body-margin-to-header {
+  margin-top: 25px;
+}
+.custom-ul {
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+  padding-right: 15px;
+}
+/* ----------- Generic overriding classes Start ----------- */
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+/* ----------- Generic overriding classes End ----------- */
+
+/* ----------- Header Start ----------- */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.custom-header-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    margin-bottom: 75px;
+    height: 60px;
+}
+
+.custom-header-menu-item {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.custom-header-menu-text{
+  font-size: 15px;
+  color: #080808;
+  padding: 10px;
+  width: fit-content;
+}
+.custom-header-menu-text:hover{
+  color: #080808;
+  transition: .5s ease;
+  font-size: 20px;
+}
+.custom-header-menu-center {
+  font-size: 35px;
+  color: #080808;
+}
+
+.custom-header-menu-center:hover {
+  color: #080808;
+  font-size: 40px;
+  transition: 0.5s;
+}
+header {
+  background-color: #ffffff;
+}
+
+.custom-img{
+  width: 100px;
+  border-radius: 30%;
+}
+
+.custom-header-li {
+  list-style: none;
+}
+
+.navbar {
+  min-height: 70px;
+  display: flex;
+  z-index: 9999;
+}
+
+.hamburger {
+  display: block;
+  cursor: pointer;
+}
+
+.bar {
+  display: block;
+  width: 25px;
+  height: 3px;
+  margin: 5px auto;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  background-color: #080808;
+}
+
+.hamburger.active .bar:nth-child(2) {
+  opacity: 0;
+}
+.hamburger.active .bar:nth-child(1) {
+  transform: translateY(8px) rotate(45deg);
+}
+.hamburger.active .bar:nth-child(3) {
+  transform: translateY(-8px) rotate(-45deg);
+}
+.nav-menu {
+  position: fixed;
+  left: -100%;
+  top: 80px;
+  gap: 0;
+  flex-direction: column;
+  background-color: #fff;
+  width: 100%;
+  text-align: center;
+  transition: 0.3s;
+  box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2);
+}
+.nav-menu.active {
+  left: 0;
+}
+/* ----------- Header End ----------- */
+
+/* ----------- Dynamic Cards Start ----------- */
+.custom-card {
+    box-shadow: 0 8px 10px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 50px;
+    margin-top: 25px;
+}
+
+.custom-card:hover {
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,0.2);
+}
+
+.custom-card-header {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.card-center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    max-width: 250px;
+}
+
+.custom-card-subheader {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.custom-card-description {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.custom-card-center {
+    margin: auto;
+    padding: 10px;
+}
+
+.custom-card-badges {
+  background-color: #c9c9c9;
+  width: auto;
+  border-radius: 30px;
+  font-weight: bold;
+  color: #080808;
+  margin-left: 10px;
+}
+
+.custom-card-routerlink {
+  color: #080808;
+}
+.custom-card-routerlink:hover {
+  color: #080808;
+}
+/* ----------- Dynamic Cards End ----------- */
+
+/* ----------- Contact Cards Start ----------- */
+.contact-card {
+  box-shadow: 0 8px 10px 0 rgba(0,0,0,0.2);
+  border-radius: 50px;
+  transition: 0.3s;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  transition: 0.3s;
+}
+
+.contact-card-header {
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.contact-card-subheader {
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.contact-card-description {
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.contact-button {
+  margin-left: 15px;
+  margin-bottom: 15px;
+  width: 20%;
+  border-radius: 15px;
+}
+
+.contact-card-center {
+  margin: auto;
+  padding: 10px;
+}
+/* ----------- Contact Cards End ----------- */
+
+/* ----------- Contact Modal Start ----------- */
+
+.modal-mask {
+  position: fixed;
+  z-index: 9998;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: table;
+  transition: opacity 0.3s ease;
+}
+
+.modal-wrapper {
+  display: table-cell;
+  vertical-align: middle;
+}
+.close-icon {
+  text-align: right;
+}
+
+/* ----------- Contact Modal End ----------- */
+
+/* ----------- @Media Sizing Start ----------- */
+
+@media screen and (max-width: 678px) {
+  .custom-header-menu-mobile {
+    margin-top: 50px;
+  }
+}
+
+/* ----------- @Media Sizing End ----------- */
