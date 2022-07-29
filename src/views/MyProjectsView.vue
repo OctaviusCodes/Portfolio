@@ -81,10 +81,13 @@
             <p>Owner</p>
           </template>
           <template v-slot:card-description-slot>
-            <p>My own online portfolio/CV to promote myself online and show my online tech profile</p>
+            <p>My own online portfolio/CV to promote myself online and show my online tech profile.<br>
+              Build in Vue with components and routes and automatic deploy to test and prod, with gate criteria of SonarCloud
+            </p>
             <p><b>Techstack:</b><br><span class="badge badge-pill mr-2 custom-card-badges text-center">VueJS</span>
-              <span class="badge badge-pill mr-2 custom-card-badges text-center">Docker</span>
-              <span class="badge badge-pill mr-2 custom-card-badges text-center">Firebase</span>
+            <span class="badge badge-pill mr-2 custom-card-badges text-center">Firebase</span>
+              <span class="badge badge-pill mr-2 custom-card-badges text-center">Github Actions - CI/CD</span>
+              <span class="badge badge-pill mr-2 custom-card-badges text-center">SonarCloud</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">HTML</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">CSS</span>
             </p>
