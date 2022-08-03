@@ -51,7 +51,7 @@
                         <ul class="custom-ul">
                             <li>Google - App Engine</li>
                             <li>Cloud Storage Bucket</li>
-                            <li><b>V</b>irtuel <b>M</b>achines</li>
+                            <li><strong>V</strong>irtuel <strong>M</strong>achines</li>
                             <li>Service Accounts</li>
                             <li>Cloud Functions</li>
                             <li>Cloud SQL</li>
@@ -139,10 +139,10 @@
                                 <li>SCRUM</li>
                                 <li>Azure DevOps</li>
                                 <li>Miro</li>
-                                <li>e<b>X</b>treme <b>P</b>rogramming</li>
+                                <li>e<strong>X</strong>treme <strong>P</strong>rogramming</li>
                                 <li>DevOps</li>
                                 <li>Asana</li>
-                                <li><b>T</b>est <b>D</b>riven <b>D</b>evelopment</li>
+                                <li><strong>T</strong>est <strong>D</strong>riven <strong>D</strong>evelopment</li>
                                 <li>Trello</li>
                             </ul>
                             </p>

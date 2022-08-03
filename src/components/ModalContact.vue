@@ -8,7 +8,7 @@
               <div class="col-9 contact-card-center">
                 <ContactCard>
                   <template v-slot:contact-card-header-slot>
-                  <div class="row"><i @click="close" class="far fa-times-circle close-icon" ></i></div>
+                  <div class="row"><em @click="close" class="far fa-times-circle close-icon" ></em></div>
                     <div class="form-group">
                       <div class="form-row">
                         <label>

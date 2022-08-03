@@ -7,14 +7,14 @@
         <DynamicCard class="green-custom-color">
           <template v-slot:card-header-slot>
             <p>Coloplast</p>
-            <h6><b>2022 - Present</b></h6>
+            <h6><strong>2022 - Present</strong></h6>
           </template>
           <template v-slot:card-subheader-slot>
             <p>DevOps Engineer & Cloud Infrastructure Specialist</p>
           </template>
           <template v-slot:card-description-slot>
             <p>At Coloplast i mainly work with DevOps, cloud infrastructure solutions and security to cover whole Coloplast's setup. This covers work with daily and multiple pipelines as a core flow in their setup, CVE, vulnerability scanning, pen-testing and security reporting on multiple projects.</p>
-            <p><b>Key responsibilities:</b><br>
+            <p><strong>Key responsibilities:</strong><br>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Azure Pipelines</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Security</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Cloud Infrastucture</span>
@@ -27,14 +27,14 @@
         <DynamicCard class="green-custom-color">
           <template v-slot:card-header-slot>
             <p>KOBAJ.com</p>
-            <h6><b>2021 - 2022</b></h6>
+            <h6><strong>2021 - 2022</strong></h6>
           </template>
           <template v-slot:card-subheader-slot>
             <p>DevOps Engineer</p>
           </template>
           <template v-slot:card-description-slot>
             <p>During my work at KOBAJ.com I developed several key features and solutions for both their website, secondary business and integrational tools withing their whole setup. This including main website features and development, infrastructurel solutions to be used through Google Cloud to each project and security around their whole setup</p>
-            <p><b>Key responsibilities:</b><br>
+            <p><strong>Key responsibilities:</strong><br>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Site & Application Security</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Cloud solutions & operations</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Development of key features to
@@ -52,14 +52,14 @@
           <DynamicCard class="green-custom-color">
             <template v-slot:card-header-slot>
               <p>KOBAJ.com</p>
-              <h6><b>2021</b></h6>
+              <h6><strong>2021</strong></h6>
             </template>
             <template v-slot:card-subheader-slot>
               <p>Internship</p>
             </template>
             <template v-slot:card-description-slot>
               <p>In my study for Computer Science at Zealand i held my Interneship at KOBAJ.com where i where co-responsible for developing their 'Business Interface', solely-responsible for developing their 'Supplier Interface' and coverede several security issues based on and external vulnerability analyze. Through my internship i worked closedly related with whole KOBAJ.com's IT stack, which covered CTO and another Computer Science Intership student.</p>
-              <p><b>Key responsibilities:</b><br>
+              <p><strong>Key responsibilities:</strong><br>
                 <span class="badge badge-pill mr-2 custom-card-badges text-center">Co-Responsible for 'Business
                   Interface'</span>
                 <span class="badge badge-pill mr-2 custom-card-badges text-center">Solely responsible for 'Supplier
@@ -77,14 +77,14 @@
           <DynamicCard class="green-custom-color">
             <template v-slot:card-header-slot>
               <p>Køge Kommune</p>
-              <h6><b>2009 - 2020</b></h6>
+              <h6><strong>2009 - 2020</strong></h6>
             </template>
             <template v-slot:card-subheader-slot>
               <p>Social- & Health Care worker</p>
             </template>
             <template v-slot:card-description-slot>
               <p>At my career as Social & Health care worker, i worked mostly with helping sick and elder people at their own homes. Later on, i developed skills withing daily planning, and held solely-responsible for the team IT and PDA solutions. In this i worked mostly with support and onboarding.</p>
-              <p><b>Key responsibilities:</b><br>
+              <p><strong>Key responsibilities:</strong><br>
                 <span class="badge badge-pill mr-2 custom-card-badges text-center">Daily planning for Day & Night
                   shift</span>
                 <span class="badge badge-pill mr-2 custom-card-badges text-center">PDA & IT</span>
