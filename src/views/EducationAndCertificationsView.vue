@@ -5,8 +5,8 @@
         <div class="col-9 custom-card-center">
             <DynamicCard class="grey-custom-color">
                 <template v-slot:card-header-slot>
-                    <p>Git Versioncontrol - <b>Certificate</b></p>
-                    <h6><b>SuperUsers | 2022</b></h6>
+                    <p>Git Versioncontrol - <strong>Certificate</strong></p>
+                    <h6><strong>SuperUsers | 2022</strong></h6>
                 </template>
                 <template v-slot:card-subheader-slot>
                     <p>Git Versioncontrol</p>
@@ -25,7 +25,7 @@
             <DynamicCard class="green-custom-color">
                 <template v-slot:card-header-slot>
                     <p>AP Computer Science</p>
-                    <h6><b>Erhversakademi Zealand | 2019 - 2021</b></h6>
+                    <h6><strong>Erhversakademi Zealand | 2019 - 2021</strong></h6>
                 </template>
                 <template v-slot:card-subheader-slot>
                     <p>Computer Scientist</p>
@@ -49,8 +49,8 @@
         <div class="col-9 custom-card-center">
             <DynamicCard class="grey-custom-color">
                 <template v-slot:card-header-slot>
-                    <p>CS50 - Introduction to Computer Science - <b>Certificate</b></p>
-                    <h6><b>Harvard MIT - Online | 2016 - 2017</b></h6>
+                    <p>CS50 - Introduction to Computer Science - <strong>Certificate</strong></p>
+                    <h6><strong>Harvard MIT - Online | 2016 - 2017</strong></h6>
                 </template>
                 <template v-slot:card-subheader-slot>
                     <p>CS50</p>
@@ -75,7 +75,7 @@
             <DynamicCard class="green-custom-color">
                 <template v-slot:card-header-slot>
                     <p>HF - Higher preparatory examination</p>
-                    <h6><b>VUC Køge | 2014 - 2018</b></h6>
+                    <h6><strong>VUC Køge | 2014 - 2018</strong></h6>
                 </template>
                 <template v-slot:card-subheader-slot>
                     <p>High School Diploma</p>
@@ -106,8 +106,8 @@
         <div class="col-9 custom-card-center">
             <DynamicCard class="grey-custom-color">
                 <template v-slot:card-header-slot>
-                    <p>Health- & Safety representative - <b>Certificate</b></p>
-                    <h6><b>Arbejdsmiljoegruppen | 2015</b></h6>
+                    <p>Health- & Safety representative - <strong>Certificate</strong></p>
+                    <h6><strong>Arbejdsmiljoegruppen | 2015</strong></h6>
                 </template>
                 <template v-slot:card-subheader-slot>
                     <p>Health- & Safety representative</p>
@@ -123,8 +123,8 @@
         <div class="col-9 custom-card-center">
             <DynamicCard class="grey-custom-color">
                 <template v-slot:card-header-slot>
-                    <p>Student Supervisor - <b>Certificate</b></p>
-                    <h6><b>SOSU Greve | 2012</b></h6>
+                    <p>Student Supervisor - <strong>Certificate</strong></p>
+                    <h6><strong>SOSU Greve | 2012</strong></h6>
                 </template>
                 <template v-slot:card-subheader-slot>
                     <p>Student Supervisor</p>
@@ -142,7 +142,7 @@
             <DynamicCard class="green-custom-color">
                 <template v-slot:card-header-slot>
                     <p>Social- & Health care</p>
-                    <h6><b>SOSU Greve | 2007 - 2009</b></h6>
+                    <h6><strong>SOSU Greve | 2007 - 2009</strong></h6>
                 </template>
                 <template v-slot:card-subheader-slot>
                     <p>Social- & Health care worker</p>

@@ -19,7 +19,7 @@
           </template>
           <template v-slot:card-description-slot>
             <p></p>
-            <p><b>Techstack:</b><br><span class="badge badge-pill mr-2 custom-card-badges text-center">What you
+            <p><strong>Techstack:</strong><br><span class="badge badge-pill mr-2 custom-card-badges text-center">What you
                 need</span></p>
           </template>
         </DynamicSmallCard>
@@ -40,7 +40,7 @@
           </template>
           <template v-slot:card-description-slot>
             <p>In Coloplast I handle solutions covering multiple pipelines for each underlying projects, security on whole coloplast's infrastructure setup including external tools for CVE scanning and security reports</p>
-            <p><b>Techstack:</b><br><span class="badge badge-pill mr-2 custom-card-badges text-center">Azure
+            <p><strong>Techstack:</strong><br><span class="badge badge-pill mr-2 custom-card-badges text-center">Azure
                 Pipelines</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">C#</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Android/IOS</span>
@@ -62,7 +62,7 @@
           </template>
           <template v-slot:card-description-slot>
             <p>Kobaj express is a second business solution for KOBAJ.com where i were solely responsible for developing a cloud webshop solution, including server-side setup & maintenance, security, backend development and integration to payment, shipping and other solutions</p>
-            <p><b>Techstack:</b><br><span class="badge badge-pill mr-2 custom-card-badges text-center">Wordpress</span>
+            <p><strong>Techstack:</strong><br><span class="badge badge-pill mr-2 custom-card-badges text-center">Wordpress</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Apache2</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Google Cloud - VM & Load
                 Balancer</span>
@@ -84,7 +84,7 @@
             <p>My own online portfolio/CV to promote myself online and show my online tech profile.<br>
               Build in Vue with components and routes and automatic deploy to test and prod, with gate criteria of SonarCloud
             </p>
-            <p><b>Techstack:</b><br><span class="badge badge-pill mr-2 custom-card-badges text-center">VueJS</span>
+            <p><strong>Techstack:</strong><br><span class="badge badge-pill mr-2 custom-card-badges text-center">VueJS</span>
             <span class="badge badge-pill mr-2 custom-card-badges text-center">Firebase</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Github Actions - CI/CD</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">SonarCloud</span>
@@ -107,7 +107,7 @@
           </template>
           <template v-slot:card-description-slot>
             <p>API to serve KOBAJ.com's backend<br>Here i were co-responsible for developing this, from idea to deployed solution</p>
-            <p><b>Techstack:</b><br><span class="badge badge-pill mr-2 custom-card-badges text-center">FastAPI -
+            <p><strong>Techstack:</strong><br><span class="badge badge-pill mr-2 custom-card-badges text-center">FastAPI -
                 SlowAPI</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Alembic</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">GitHub Actions</span>
@@ -129,7 +129,7 @@
           </template>
           <template v-slot:card-description-slot>
             <p>KOBAJ.com is a co-buying platform, where i solved several features within feature development, security and cloud operations including server maintenance</p>
-            <p><b>Techstack:</b><br><span class="badge badge-pill mr-2 custom-card-badges text-center">Nginx</span>
+            <p><strong>Techstack:</strong><br><span class="badge badge-pill mr-2 custom-card-badges text-center">Nginx</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">PHP</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">PostgresSQL</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Google Cloud - VM & DB</span>
@@ -153,7 +153,7 @@
           </template>
           <template v-slot:card-description-slot>
             <p>KOBAJ.com's Business Interface is an internal administrative web-interface to handle the day-to-day task.<br>Here i were co-responsible for developing this, from idea to deployed solution.</p>
-            <p><b>Techstack:</b><br><span
+            <p><strong>Techstack:</strong><br><span
                 class="badge badge-pill mr-2 custom-card-badges text-center">Python/Django</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Docker</span>
               <span class="badge badge-pill mr-2 custom-card-badges text-center">Goggle Cloud - App Engine</span>
@@ -182,7 +182,7 @@
             </template>
             <template v-slot:card-description-slot>
               <p>OUK - Kaninfarm is an Android application with a integrated and connected REST API with PostgresSQL DB, hosted at a local Raspberry pi.<br>OUK was my final exam project at my Computer Science study at Zealand. The solution covers the need for Rabbit Breeders to control their selective breeds and get recommendations on which breed would be a great match. The solution also covers a family tree for the breeds and a selection of choosing wheter the rabbit enter into future breeds or slaughter including other informations on the rabbit</p>
-              <p><b>Techstack:</b><br><span class="badge badge-pill mr-2 custom-card-badges text-center">C#</span>
+              <p><strong>Techstack:</strong><br><span class="badge badge-pill mr-2 custom-card-badges text-center">C#</span>
                 <span class="badge badge-pill mr-2 custom-card-badges text-center">Android</span>
                 <span class="badge badge-pill mr-2 custom-card-badges text-center">Docker</span>
                 <span class="badge badge-pill mr-2 custom-card-badges text-center">PostgresSQL</span>
@@ -205,7 +205,7 @@
             </template>
             <template v-slot:card-description-slot>
               <p>WhatToDo is an webapplication i worked on at 3rd semester on my Computer Science education at Zealand.<br>WhatToDo is a solution which covers the need of a lazy user to get told 'WhatToDo' during a period of daily spare time. In this solution there's in-build integration for sensors, example a sensor for the lawn needs to be moved, or triggers for indoor/outdoor activities.</p>
-              <p><b>Techstack:</b><br><span class="badge badge-pill mr-2 custom-card-badges text-center">C#</span>
+              <p><strong>Techstack:</strong><br><span class="badge badge-pill mr-2 custom-card-badges text-center">C#</span>
                 <span class="badge badge-pill mr-2 custom-card-badges text-center">REST API</span>
                 <span class="badge badge-pill mr-2 custom-card-badges text-center">Selenium & Unit test</span>
                 <span class="badge badge-pill mr-2 custom-card-badges text-center">Sensors</span>

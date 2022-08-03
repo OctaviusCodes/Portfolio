@@ -39,13 +39,13 @@ import RouterLink from "vue-router";
 <script>
 export default {
   methods: {
-    toggleHamburger(event) {
-      const hamburger = document.querySelector(".hamburger").classList.toggle("active");
-      const navMenu = document.querySelector(".nav-menu").classList.toggle("active");
+    toggleHamburger() {
+      document.querySelector(".hamburger").classList.toggle("active");
+      document.querySelector(".nav-menu").classList.toggle("active");
     },
-    closeHamburger(event) {
-      const hamburger = document.querySelector(".hamburger").classList.remove("active");
-      const navMenu = document.querySelector(".nav-menu").classList.remove("active");
+    closeHamburger() {
+      document.querySelector(".hamburger").classList.remove("active");
+      document.querySelector(".nav-menu").classList.remove("active");
     }
   }
 }
