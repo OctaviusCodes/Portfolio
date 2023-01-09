@@ -4,10 +4,9 @@
 name: Deploy to Firebase Hosting on closed PR to production
 'on':
   pull_request:
-    branches:
-      - production
+    branches: [ production ]
 jobs:
-  build_and_deploy:
+  build_and_deploy_prod:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
