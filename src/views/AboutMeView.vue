@@ -14,7 +14,7 @@
                             operations' & 'Cloud'. It's also within these elements my interest is. <br><br>Listed below
                             is some of my personal key values and core and abilities.
                             <br><br>
-                        <p>See my CV <a href="files/CV/CV - Daniel Octavius Herlufsen Palmqvist.pdf" class="referece-text"
+                        <p>See my CV <a href="/b/portfolio-a121a.appspot.com/o/CV/CV+-+Daniel+Octavius+Herlufsen+Palmqvist.pdf" class="referece-text"
                                 target="_blank">here</a></p>
                         </p>
                     </template>
